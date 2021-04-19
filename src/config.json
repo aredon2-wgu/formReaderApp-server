@@ -1,0 +1,11 @@
+{
+  "apiURL": "http://localhost:3001/api",
+  "staticURL": "http://localhost:3001/static/downloads",
+  "httpConfig": {
+    "headers": {
+      "Access-Control-Expose-Headers": "Access-Control-Allow-Origin",
+      "crossDomain": true,
+      "Content-type": "Application/json"
+    }
+  }
+}
