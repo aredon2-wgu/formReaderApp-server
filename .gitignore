@@ -3,3 +3,5 @@ coverage/
 package-lock.json
 .env
 .vscode
+.DS_Store
+.gitignore
