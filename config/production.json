@@ -1,0 +1,6 @@
+{
+  "name": "FormReaderApp - Production",
+  "dbconfig": {
+    "host": "prod-mongodb-server"
+  }
+}

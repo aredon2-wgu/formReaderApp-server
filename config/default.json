@@ -1,0 +1,7 @@
+{
+  "name": "FormReaderApp",
+  "db": "mongodb://localhost/formReaderDB",
+  "port": "3002",
+  "jwtPrivateKey": "",
+  "requiresAuth": true
+}

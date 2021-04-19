@@ -1,0 +1,9 @@
+{
+  "jwtPrivateKey": "formReader_jwtPrivateKey",
+  "database": {
+    "dbPassword": "formReader_dbPassword"
+  },
+  "server": {
+    "port": "formReader_PORT"
+  }
+}
